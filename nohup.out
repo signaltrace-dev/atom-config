@@ -1,0 +1,13 @@
+[5078:0829/114439:ERROR:browser_main_loop.cc(170)] Running without the SUID sandbox! See https://code.google.com/p/chromium/wiki/LinuxSUIDSandboxDevelopment for more information on developing with the sandbox on.
+Gtk-Message: Failed to load module "pantheon-filechooser-module"
+[5078:0829/114439:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[5078:0829/114439:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[5078:0829/114439:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[5078:0829/114439:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+[5078:0829/114439:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "pixmap",
+Gtk-Message: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[5106:0829/114439:ERROR:sandbox_linux.cc(325)] InitializeSandbox() called with multiple threads in process gpu-process
+App load time: 222ms
+[5118:0829/114439:INFO:renderer_main.cc(212)] Renderer process started
+[5078:0829/114440:INFO:CONSOLE(46)] "Window load time: 594ms", source: file:///usr/share/atom/resources/app.asar/static/index.js (46)

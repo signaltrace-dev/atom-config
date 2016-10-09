@@ -1,0 +1,24 @@
+"*":
+  core:
+    disabledPackages: [
+      "autocomplete-html-entities"
+    ]
+  editor:
+    invisibles: {}
+    preferredLineLength: 160
+  "exception-reporting":
+    userId: "00f70fda-6bf0-057c-60fa-08ee04f24e71"
+  "git-diff":
+    showIconsInEditorGutter: true
+  "php-debug": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
+".blade.html.php.text":
+  editor:
+    commentEnd: " --}}"
+    commentStart: "{{-- "
+".diff.source":
+  editor:
+    preferredLineLength: 160
