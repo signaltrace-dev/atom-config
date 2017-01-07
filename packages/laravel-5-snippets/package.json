@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\d-11706-2036-r5el4f\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\d-11706-2036-r5el4f\\package.tgz",
+        "spec": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\d-11706-2036-r5el4f\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\Jeff\\AppData\\Local\\Temp\\apm-install-dir-11706-2036-u0kuy9"
+    ]
+  ],
+  "_from": "..\\d-11706-2036-r5el4f\\package.tgz",
+  "_id": "laravel-5-snippets@0.8.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/laravel-5-snippets",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\d-11706-2036-r5el4f\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\d-11706-2036-r5el4f\\package.tgz",
+    "spec": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\d-11706-2036-r5el4f\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-11706-2036-r5el4f\\package.tgz",
+  "_shasum": "c55b1277f3654196c4bd5f92db163509239862c5",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\d-11706-2036-r5el4f\\package.tgz",
+  "_where": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\apm-install-dir-11706-2036-u0kuy9",
+  "author": {
+    "name": "wboyz"
+  },
+  "bugs": {
+    "url": "https://github.com/wboyz/laravel-snippets/issues"
+  },
+  "dependencies": {},
+  "description": "Laravel 5 snippets for Atom.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/wboyz/laravel-snippets#readme",
+  "keywords": [
+    "atom",
+    "laravel",
+    "snippets"
+  ],
+  "license": "MIT",
+  "name": "laravel-5-snippets",
+  "optionalDependencies": {},
+  "readme": "# Laravel 5 Snippets for Atom\n\n## Install\nAtom Package: https://atom.io/packages/laravel-5-snippets.\n\n```bash\napm install laravel-5-snippets\n```\n\nOr Settings/Preferences ➔ Install ➔ Search for `laravel-5-snippets`. You should restart Atom after the Install / Update of the package.\n\n## Currently Available Snippets\n* **dd**: Die dump. *dd()*.\n* **dump**: Dump without die. *dump()*.\n* **l:hm**: HasMany method.\n* **l:bt**: BelongsTo method.\n* **l:btm**: BelongsToMany method.\n* **l:ho**: HasOne method.\n* **l:fillable**: Fillable model property.\n* **l:guarded**: Guarded model property.\n* **l:hidden**: Hidden model property.\n* **l:visible**: Visible model property.\n* **l:dates**: Dates model property.\n* **l:appends**: Appends model property.\n* **l:casts**: Casts model property.\n* **l:scope**: Scope method.\n* **l:accessor**: Accessor method.\n* **l:controller**: Controller method.\n***\n\n![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wboyz/laravel-snippets.git"
+  },
+  "version": "0.8.0"
+}

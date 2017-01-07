@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\d-11706-1560-5n5vp8\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\d-11706-1560-5n5vp8\\package.tgz",
+        "spec": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\d-11706-1560-5n5vp8\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\Jeff\\AppData\\Local\\Temp\\apm-install-dir-11706-1560-pkn8vq"
+    ]
+  ],
+  "_from": "..\\d-11706-1560-5n5vp8\\package.tgz",
+  "_id": "laravel@0.7.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/laravel",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\d-11706-1560-5n5vp8\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\d-11706-1560-5n5vp8\\package.tgz",
+    "spec": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\d-11706-1560-5n5vp8\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-11706-1560-5n5vp8\\package.tgz",
+  "_shasum": "68dce9c0e6d7bfba97a73679d43b5cc347aa54c0",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\d-11706-1560-5n5vp8\\package.tgz",
+  "_where": "C:\\Users\\Jeff\\AppData\\Local\\Temp\\apm-install-dir-11706-1560-pkn8vq",
+  "bugs": {
+    "url": "https://github.com/Cronos87/atom-laravel/issues"
+  },
+  "dependencies": {},
+  "description": "Add Laravel snippets",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/Cronos87/atom-laravel#readme",
+  "license": "MIT",
+  "name": "laravel",
+  "optionalDependencies": {},
+  "private": false,
+  "readme": "# Laravel 5 package\n\nAdd Laravel snippets\n\n* Laravel 5 snippets\n* Helpers snippets\n\n## Credits\n\nFork of [loranger original textmate bundle](https://github.com/loranger/Laravel.tmbundle) works\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cronos87/atom-laravel.git"
+  },
+  "version": "0.7.1"
+}

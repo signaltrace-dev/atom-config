@@ -3,6 +3,7 @@
     disabledPackages: [
       "autocomplete-html-entities"
     ]
+    telemetryConsent: "no"
   editor:
     invisibles: {}
     preferredLineLength: 160
